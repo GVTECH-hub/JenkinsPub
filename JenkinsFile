@@ -59,3 +59,12 @@ pipeline {
         }
     }
 }
+/**
+ * This script performs the following operations:
+ * 1. Initializes a list of integers.
+ * 2. Iterates through the list and prints each integer.
+ * 3. Checks if each integer is even or odd and prints the result.
+ * 4. Sums all the integers in the list and prints the total sum.
+ * 
+ * The script demonstrates basic list operations, iteration, conditional checks, and summation in Groovy.
+ */
